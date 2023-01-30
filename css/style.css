@@ -45,3 +45,14 @@
 img {
     height: 100%;
 }
+footer {
+    display: flex;
+    height: 100px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    font-size: 22px;
+}
+.f-content {
+    margin: auto;
+}
